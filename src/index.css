@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #04AA6D;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#quote-box{
+    width: 500px;
+    background-color: #F5F5F5;
+    color: #04AA6D;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+#text{
+    font-size: 2rem;
+    text-align: center;
+}
+
+#author{
+    font-size: 1.3rem;
+    align-self: flex-end;
+    margin: 15px 0;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: #04AA6D;
+    padding: 5px 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.fa-twitter {
+    font-size: 2rem
+}
