@@ -25,7 +25,7 @@ This project is a requirement for the FreeCodeCamp Front End Development Librari
 
 ## Live Demo
 
-You can view a live demo of the Random Quote Machine on [GitHub Pages](https://tprasant007.github.io/random-quotes/).
+You can view a live demo of the Random Quote Machine [here](https://tprasant007-random-quotes-generator.netlify.app/).
 
 ## Project Requirements
 
